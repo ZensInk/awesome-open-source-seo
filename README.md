@@ -142,6 +142,8 @@ The newest category. These tools measure and improve how sites appear in AI answ
 - [AutoGEO](https://github.com/cxcscmu/AutoGEO) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Research-grade GEO framework (ICLR'26): automatically learns which content edits move generative-engine rankings. (224★, MIT)
 - [searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Open-source AEO/GEO/SEO stack for AI-native websites. (104★, MIT)
 
+- [Traclux](https://github.com/ZaneLau/traclux-probe) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] — Self-hosted GEO workbench: generate probes with CSSM-HI, execute them against a configured model, and inspect saved answers and brand analysis. (0★, Apache-2.0)
+
 ### llms.txt Infrastructure
 
 - [llms-txt](https://github.com/AnswerDotAI/llms-txt) ![GEO/AI][GEO Icon] ![Active][Active Icon] — The llms.txt proposal itself, by Answer.ai: a markdown map that helps language models use your site. The convention most GEO tools write for. (2.7k★, Apache-2.0)
