@@ -125,7 +125,6 @@ The newest category. These tools measure and improve how sites appear in AI answ
 - [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Free SEO MCP server plus skills for Claude: keyword research, rank tracking, audits. Speaks the protocol your agent already uses. (4.6k★, MIT)
 - [notfair-plugin](https://github.com/nowork-studio/notfair-plugin) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Open-source SEO, GEO, and marketing skills for AI agents. (3.9k★, MIT)
 - [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Claude Code skill for AEO/GEO: instrument your site so AI engines cite it, from a tag-management angle. (1.3k★, MIT)
-- [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) ![GEO/AI][GEO Icon] ![Active][Active Icon] — AEO & GEO audit toolkit: run the checks, get a prioritized fix list for AI-search visibility. (1k★, MIT)
 - [codex-seo](https://github.com/AgriciDaniel/codex-seo) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Codex-first sibling of the claude-seo suite: 26 workflows and 24 TOML agents for technical SEO. (799★)
 - [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Agent skill that runs a Python + LLM two-layer audit on any URL: robots, sitemap, canonicals, H1, schema, PSI. (761★, MIT)
 - [fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) ![GEO/AI][GEO Icon] ![Active][Active Icon] — One skill that audits and optimizes SEO, AEO, and GEO — every acronym the AI-search era has coined. (709★, MIT)
@@ -135,6 +134,7 @@ The newest category. These tools measure and improve how sites appear in AI answ
 ### GEO Platforms & Auditors
 
 - [GEOFlow](https://github.com/yaojingang/GEOFlow) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — GEO content engineering and multi-site distribution system. (3.8k★, Apache-2.0)
+- [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) ![GEO/AI][GEO Icon] ![Active][Active Icon] — AEO & GEO audit toolkit: run the checks, get a prioritized fix list for AI-search visibility. (1k★, MIT)
 - [geolook](https://github.com/aigclink/geolook) ![GEO/AI][GEO Icon] ![Active][Active Icon] — End-to-end GEO implementation: status analysis, diagnosis, and reporting. (749★, MIT)
 - [GEORank](https://github.com/yaojingang/GEORank) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — GEO ranking platform from the GEOFlow author: track how sites surface in generative-engine answers. (492★, Apache-2.0)
 - [elmo](https://github.com/elmohq/elmo) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Open-source AEO/GEO platform: measure and improve how your site shows up in AI answers. (420★, MIT)
