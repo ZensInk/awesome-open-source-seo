@@ -117,7 +117,6 @@
 - [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) ![GEO/AI][GEO Icon] ![Active][Active Icon] — 免费 SEO MCP server + Claude 技能：关键词研究、排名追踪、审计，agent 直接调用。(4.6k★, MIT)
 - [notfair-plugin](https://github.com/nowork-studio/notfair-plugin) ![GEO/AI][GEO Icon] ![Active][Active Icon] — 给 AI agent 用的开源 SEO、GEO 和营销技能。(3.9k★, MIT)
 - [gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Claude Code 的 AEO/GEO 技能：从标签管理角度埋好站点，让 AI 引擎引用你。(1.3k★, MIT)
-- [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) ![GEO/AI][GEO Icon] ![Active][Active Icon] — AEO/GEO 审计工具包：跑完检查项，输出 AI 搜索可见性优先修复清单。(1k★, MIT)
 - [codex-seo](https://github.com/AgriciDaniel/codex-seo) ![GEO/AI][GEO Icon] ![Active][Active Icon] — claude-seo 套件的 Codex 版：26 个工作流 + 24 个 TOML agent。(799★)
 - [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Agent skill，Python + LLM 双层审计任意 URL：robots、sitemap、canonical、H1、schema、PSI。(761★, MIT)
 - [fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) ![GEO/AI][GEO Icon] ![Active][Active Icon] — 一个技能审计并优化 SEO、AEO、GEO 全家桶。(709★, MIT)
@@ -127,6 +126,7 @@
 ### GEO 平台与审计器
 
 - [GEOFlow](https://github.com/yaojingang/GEOFlow) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — GEO 内容工程与多站点分发系统。(3.8k★, Apache-2.0)
+- [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) ![GEO/AI][GEO Icon] ![Active][Active Icon] — AEO/GEO 审计工具包：跑完检查项，输出 AI 搜索可见性优先修复清单。(1k★, MIT)
 - [geolook](https://github.com/aigclink/geolook) ![GEO/AI][GEO Icon] ![Active][Active Icon] — 端到端 GEO 实现：状态分析、诊断、报告。(749★, MIT)
 - [GEORank](https://github.com/yaojingang/GEORank) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — GEOFlow 作者出品的 GEO 排名平台：追踪站点在生成式引擎回答中的浮现。(492★, Apache-2.0)
 - [elmo](https://github.com/elmohq/elmo) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — 开源 AEO/GEO 平台：度量并改进站点在 AI 回答中的呈现。(420★, MIT)
