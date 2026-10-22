@@ -141,6 +141,7 @@ The newest category. These tools measure and improve how sites appear in AI answ
 - [notra](https://github.com/usenotra/notra) ![GEO/AI][GEO Icon] ![Active][Active Icon] — GEO monitoring that asks ChatGPT, Claude, and Gemini the questions your buyers ask, then tracks who gets cited. (256★, AGPL-3.0)
 - [AutoGEO](https://github.com/cxcscmu/AutoGEO) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Research-grade GEO framework (ICLR'26): automatically learns which content edits move generative-engine rankings. (224★, MIT)
 - [searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Open-source AEO/GEO/SEO stack for AI-native websites. (104★, MIT)
+- [CiteLadder](https://github.com/abhij1306/CiteLadder) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] — Self-hosted tracker of how ChatGPT, Gemini, Claude, and AI Overviews answer buyer questions, with the brands named and pages cited; includes an MCP server. (2★, AGPL-3.0)
 
 - [Traclux](https://github.com/ZaneLau/traclux-probe) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Self-hosted GEO workbench: generate probes with CSSM-HI, execute them against a configured model, and inspect saved answers and brand analysis. (0★, Apache-2.0)
 
