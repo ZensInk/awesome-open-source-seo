@@ -134,6 +134,7 @@
 - [AutoGEO](https://github.com/cxcscmu/AutoGEO) ![GEO/AI][GEO Icon] ![Active][Active Icon] — 学术派 GEO 框架（ICLR'26）：自动学习哪些内容编辑能搞动生成式引擎排名。(224★, MIT)
 - [searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — 面向 AI 原生站点的开源 AEO/GEO/SEO 技术栈。(104★, MIT)
 
+- [CiteLadder](https://github.com/abhij1306/CiteLadder) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] — 自托管的 AI 搜索可见性追踪器：看 ChatGPT、Gemini、Claude 和 Google AI Overviews 怎么回答买家问题、点名哪些品牌、引用哪些页面，附带 MCP server。(4★, AGPL-3.0)
 - [Traclux](https://github.com/ZaneLau/traclux-probe) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — 可自部署的 GEO 工作台：用 CSSM-HI 生成探针，接入配置的模型执行，再查看保存的回答和品牌分析。(0★, Apache-2.0)
 
 ### llms.txt 基础设施
