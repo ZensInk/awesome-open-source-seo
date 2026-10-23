@@ -101,6 +101,7 @@ Not SEO tools per se — the standard raw material for building custom crawlers 
 ## GSC Data Extraction
 
 - [google-search-console-export-all](https://github.com/swalker-888/google-search-console-export-all) ![CLI][CLI Icon] — Bulk CSV export of Search Console data, bypassing the 1,000-row UI limit. (12★)
+- [gsc-hub](https://github.com/izzipizzy/gsc-hub) ![Self-host][Self-host Icon] — Local self-hosted multi-account hub for Google Search Console: all properties in one table, aggregated queries and pages, per-site SEO analytics. (21★, MIT)
 
 ## SERP & Keyword Research
 
