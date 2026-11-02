@@ -131,6 +131,7 @@ The newest category. These tools measure and improve how sites appear in AI answ
 - [fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) ![GEO/AI][GEO Icon] ![Active][Active Icon] — One skill that audits and optimizes SEO, AEO, and GEO — every acronym the AI-search era has coined. (987★, MIT)
 - [seo-ops](https://github.com/tigerless-labs/seo-ops) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Agent skill that fetches a URL and returns a crawler's-eye pass/fail report on the SEO fundamentals. (986★)
 - [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Google's SEO documentation turned into an AI prompt library. (567★, MIT)
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) ![CLI][CLI Icon] ![GEO/AI][GEO Icon] - Free Claude Code plugin for SEO audits, content plans, schema markup and link checks. (78★, MIT)
 
 ### GEO Platforms & Auditors
 
