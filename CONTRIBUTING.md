@@ -1,6 +1,6 @@
 # Contributing
 
-PRs welcome. Before you open one, check the list (both [README.md](./README.md) and the search) — your tool may already be here, possibly under a different category.
+PRs welcome. Before you open one, check the list — both [README.md](./README.md) and [README.zh.md](./README.zh.md) — and the search — your tool may already be here, possibly under a different category.
 
 ## Criteria
 
@@ -15,13 +15,19 @@ Self-promotion is allowed but disclose it in the PR, like everyone else does.
 
 ## Entry format
 
-One line per tool, placed in the right category (create a subcategory only if you're adding 3+ tools that fit it):
+One line per tool, placed in the right category (create a subcategory only if you're adding 3+ tools that fit it). Add it to **both** language versions — `README.md` and `README.zh.md`:
 
 ```markdown
 - [name](https://github.com/owner/repo) ![CLI][CLI Icon] ![Active][Active Icon] — One-sentence description of what it does and why it matters. (1.5k★, MIT)
 ```
 
+```markdown
+- [name](https://github.com/owner/repo) ![CLI][CLI Icon] ![Active][Active Icon] — 一句话说清它做什么、为什么值得用。(1.5k★, MIT)
+```
+
 Rules:
+
+- **Both languages**: the Chinese line is a real translation, not a machine dump, and goes in the same category as the English one. PRs that only touch one file are asked to add the other
 
 - **Star count** comes from the live API — any number works, the bot will correct it on the next monthly refresh
 - **License** goes inside the parens after the star count, if the repo states one

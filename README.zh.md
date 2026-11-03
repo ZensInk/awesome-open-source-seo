@@ -93,6 +93,7 @@
 ## GSC 数据导出
 
 - [google-search-console-export-all](https://github.com/swalker-888/google-search-console-export-all) ![CLI][CLI Icon] — 批量 CSV 导出 Search Console 数据，绕过界面 1000 行限制。(12★)
+- [gsc-hub](https://github.com/izzipizzy/gsc-hub) ![Self-host][Self-host Icon] ![Active][Active Icon] — 本地自托管的多账号 Google Search Console 中枢：所有资源放一张表，聚合查询与页面，按站看 SEO 数据。(22★, MIT)
 
 ## SERP 与关键词研究
 
@@ -122,6 +123,7 @@
 - [fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) ![GEO/AI][GEO Icon] ![Active][Active Icon] — 一个技能审计并优化 SEO、AEO、GEO 全家桶。(987★, MIT)
 - [seo-ops](https://github.com/tigerless-labs/seo-ops) ![GEO/AI][GEO Icon] ![Active][Active Icon] — Agent skill，给一个 URL，返回爬虫视角的 SEO 基础项通过/失败报告。(986★)
 - [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) ![GEO/AI][GEO Icon] ![Active][Active Icon] — 把 Google SEO 官方文档做成的 AI 提示词库。(567★, MIT)
+- [Akii](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) ![GEO/AI][GEO Icon] — Claude Code 插件：12 个技能 + 5 个 agent，做站点审计、内容计划、结构化数据和链接检查。(79★, MIT)
 
 ### GEO 平台与审计器
 
