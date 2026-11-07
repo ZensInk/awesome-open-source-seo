@@ -85,6 +85,7 @@ Not SEO tools per se — the standard raw material for building custom crawlers 
 - [SerpBear](https://github.com/towfiqi/serpbear) ![Self-host][Self-host Icon] ![Active][Active Icon] — Self-hosted rank tracker (Next.js + SQLite, Docker) with unlimited domains/keywords, GSC and Google Ads integration, Slack/Telegram alerts. The most-recommended self-hosted tracker. (2.2k★, GPL-3.0)
 - [serposcope](https://github.com/serphacker/serposcope) ![Self-host][Self-host Icon] — Long-running self-hosted rank monitor (Java) with multi-region, proxy, and captcha support. Legacy but battle-tested. (755★, GPLv3) ⚠️ archived
 - [Seo-Panel](https://github.com/sendtogeo/Seo-Panel) ![Self-host][Self-host Icon] — Multi-site SEO control panel (PHP + MySQL) with rank tracking, audits, backlink monitoring, and white-label reports for agencies. (138★, GPL-3.0)
+- [looot-seo](https://github.com/loootai/looot-seo) ![Self-host][Self-host Icon] — Self-hosted SEO workspace (Next.js + Supabase) with rank tracking, keyword research, SERP snapshots, competitors and backlinks. Data comes from looot, a paid API, and the price of each refresh shows before it runs. (0★, MIT)
 
 ## Analytics & Log Analysis
 

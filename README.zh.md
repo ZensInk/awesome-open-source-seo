@@ -77,6 +77,7 @@
 - [SerpBear](https://github.com/towfiqi/serpbear) ![Self-host][Self-host Icon] ![Active][Active Icon] — 自托管排名追踪（Next.js + SQLite，Docker），无限域名/关键词，接 GSC 和 Google Ads，Slack/Telegram 告警。最常被推荐的自托管追踪器。(2.2k★, GPL-3.0)
 - [serposcope](https://github.com/serphacker/serposcope) ![Self-host][Self-host Icon] — 老牌自托管排名监控（Java），多地区、代理、验证码支持。Legacy 但久经考验。(755★, GPLv3) ⚠️ archived
 - [Seo-Panel](https://github.com/sendtogeo/Seo-Panel) ![Self-host][Self-host Icon] — 多站点 SEO 控制面板（PHP + MySQL），含排名、审计、外链监控、白标报告，适合 Agency。(138★, GPL-3.0)
+- [looot-seo](https://github.com/loootai/looot-seo) ![Self-host][Self-host Icon] — 自托管 SEO 工作台（Next.js + Supabase），含排名追踪、关键词研究、SERP 快照、竞品与外链。数据来自付费 API looot，每次刷新前先显示价格。(0★, MIT)
 
 ## 分析与日志
 
