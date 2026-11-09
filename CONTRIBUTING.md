@@ -10,6 +10,9 @@ A project qualifies if it:
 2. Actually runs — you can install and execute it yourself
 3. Does SEO/GEO work (tools, not content, not courses)
 4. Is not a fork of an entry already listed
+5. Does not require a paid API sold by the same company that maintains the repo. Reselling someone else's data does not count as an independent data layer.
+
+Criterion 5 is the one that keeps this list useful. Open software plus a third-party data provider (OpenSEO with a DataForSEO account, a crawler that reads your Search Console) is a working combination and belongs here. Open software whose every operation bills to the vendor that publishes it is a sales funnel with a free frontend, and the reader only finds that out after cloning it.
 
 Self-promotion is allowed but disclose it in the PR, like everyone else does.
 

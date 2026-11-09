@@ -6,7 +6,7 @@
 
 A curated list of open-source SEO tools you can self-host, fork, and read line by line.
 
-Every entry ships real source code under an open license. No SaaS trials, no affiliate links, no freemium walls.
+Every entry ships real source code under an open license. No SaaS trials, no affiliate links, no freemium walls, and no open frontend whose only data source is a paid API sold by the same company.
 
 > Why this list exists: existing awesome-seo lists mix tools with articles, courses, and paid products. This one is tools-only, source-available-only. If it doesn't run on your machine, it doesn't belong here.
 
