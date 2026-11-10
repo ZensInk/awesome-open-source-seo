@@ -59,6 +59,7 @@
 - [crawlseo](https://github.com/crawlseo/crawlseo) ![Self-host][Self-host Icon] ![Active][Active Icon] — 开源 SEO 监控：Search Console + 爬虫 + Core Web Vitals 三合一。(660★, MIT)
 - [seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) ![CLI][CLI Icon] — Lighthouse + 安全响应头爬虫，整站审计。(824★)
 - [search-solved-public-seo](https://github.com/searchsolved/search-solved-public-seo) ![CLI][CLI Icon] ![Active][Active Icon] — Lee Foot 的实用 Python SEO 脚本集。(420★)
+- [seocheck-cli](https://github.com/romangrid/seocheck-cli) ![CLI][CLI Icon] ![Active][Active Icon] — 小型 Python 命令行工具，检查 URL 的 title、meta description、H1、canonical 和响应时间。需从源码安装。(0★, MIT)
 
 ### CI 与性能预算
 
