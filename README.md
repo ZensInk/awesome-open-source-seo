@@ -67,6 +67,7 @@ Star counts, activity badges and archive flags are refreshed automatically every
 - [crawlseo](https://github.com/crawlseo/crawlseo) ![Self-host][Self-host Icon] ![Active][Active Icon] — Open-source SEO monitoring: Search Console + crawler + Core Web Vitals in one. (660★, MIT)
 - [seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) ![CLI][CLI Icon] — Lighthouse and security-header crawler that audits whole sites. (824★)
 - [search-solved-public-seo](https://github.com/searchsolved/search-solved-public-seo) ![CLI][CLI Icon] ![Active][Active Icon] — Collection of practical Python SEO scripts by Lee Foot. (420★)
+- [seocheck-cli](https://github.com/romangrid/seocheck-cli) ![CLI][CLI Icon] ![Active][Active Icon] — Small Python CLI that checks a URL for title, meta description, H1, canonical and response time. Install from source. (0★, MIT)
 
 ### CI & Performance Budgets
 
