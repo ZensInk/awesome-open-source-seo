@@ -16,10 +16,10 @@ Star counts, activity badges and archive flags are refreshed automatically every
 
 **Featured on this list?** Grab a badge for your README:
 
-[![Featured in Awesome Open-Source SEO](https://img.shields.io/badge/Featured_in-Awesome_Open--Source_SEO-7c3aed?style=for-the-badge)](https://zens.ink/awesome)
+[![Featured in Awesome Open-Source SEO](https://zens.ink/imgs/awesome-badge.svg)](https://zens.ink/awesome)
 
 ````md
-[![Featured in Awesome Open-Source SEO](https://img.shields.io/badge/Featured_in-Awesome_Open--Source_SEO-7c3aed?style=for-the-badge)](https://zens.ink/awesome)
+[![Featured in Awesome Open-Source SEO](https://zens.ink/imgs/awesome-badge.svg)](https://zens.ink/awesome)
 ````
 
 ## Contents
