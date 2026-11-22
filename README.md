@@ -68,6 +68,8 @@ Star counts, activity badges and archive flags are refreshed automatically every
 - [seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) ![CLI][CLI Icon] — Lighthouse and security-header crawler that audits whole sites. (824★)
 - [search-solved-public-seo](https://github.com/searchsolved/search-solved-public-seo) ![CLI][CLI Icon] ![Active][Active Icon] — Collection of practical Python SEO scripts by Lee Foot. (420★)
 
+- [Mydentify AI Crawler Access Checker](https://github.com/mitdralla/mydentify-ai-crawler-access-checker) ![CLI][CLI Icon] — A free, dependency-free Node.js CLI for checking robots.txt, page-level indexing directives, and HTTP responses to documented AI crawler user-agent names; local probes do not verify provider IP behavior. (0★, MIT)
+
 ### CI & Performance Budgets
 
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) ![CLI][CLI Icon] ![Active][Active Icon] — Google's official open-source auditor for performance, SEO, and best practices. Runs from CLI or CI. (31k★, Apache-2.0)

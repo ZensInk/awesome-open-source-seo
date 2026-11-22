@@ -60,6 +60,8 @@
 - [seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) ![CLI][CLI Icon] — Lighthouse + 安全响应头爬虫，整站审计。(824★)
 - [search-solved-public-seo](https://github.com/searchsolved/search-solved-public-seo) ![CLI][CLI Icon] ![Active][Active Icon] — Lee Foot 的实用 Python SEO 脚本集。(420★)
 
+- [Mydentify AI 爬虫访问检查器](https://github.com/mitdralla/mydentify-ai-crawler-access-checker) ![CLI][CLI Icon] — 免费、无依赖的 Node.js 命令行工具，用于检查 robots.txt、页面索引指令，以及对文档列明的 AI 爬虫 User-Agent 的 HTTP 响应；本地探测无法验证服务商 IP 段的实际行为。(0★, MIT)
+
 ### CI 与性能预算
 
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) ![CLI][CLI Icon] ![Active][Active Icon] — Google 官方开源审计器，性能 + SEO + 最佳实践，CLI 或 CI 运行。(31k★, Apache-2.0)
