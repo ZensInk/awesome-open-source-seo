@@ -146,6 +146,7 @@ The newest category. These tools measure and improve how sites appear in AI answ
 - [CiteLadder](https://github.com/abhij1306/CiteLadder) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Self-hosted tracker of how ChatGPT, Gemini, Claude, and AI Overviews answer buyer questions, with the brands named and pages cited; includes an MCP server. (4★, AGPL-3.0)
 
 - [Traclux](https://github.com/ZaneLau/traclux-probe) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Self-hosted GEO workbench: generate probes with CSSM-HI, execute them against a configured model, and inspect saved answers and brand analysis. (0★, Apache-2.0)
+- [citeready-cli](https://github.com/zColdWater/citeready-cli) ![CLI][CLI Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Technical GEO & AI search readiness auditor: checks 10 AI crawlers in `robots.txt`, validates `/llms.txt`, and scores Schema.org JSON-LD Entity Graph depth from the CLI or CI. (0★, MIT)
 
 ### llms.txt Infrastructure
 
