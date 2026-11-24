@@ -59,6 +59,7 @@
 - [crawlseo](https://github.com/crawlseo/crawlseo) ![Self-host][Self-host Icon] ![Active][Active Icon] — 开源 SEO 监控：Search Console + 爬虫 + Core Web Vitals 三合一。(660★, MIT)
 - [seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) ![CLI][CLI Icon] — Lighthouse + 安全响应头爬虫，整站审计。(824★)
 - [search-solved-public-seo](https://github.com/searchsolved/search-solved-public-seo) ![CLI][CLI Icon] ![Active][Active Icon] — Lee Foot 的实用 Python SEO 脚本集。(420★)
+- [mcp-web-validator](https://github.com/AKzar1el/mcp-web-validator) — 本地 MCP 服务，提供 HTML 和 CSS 校验、技术 SEO 审计，以及元数据、规范网址（canonical）、robots 指令和结构化数据检查。(10★, MIT)
 
 ### CI 与性能预算
 
