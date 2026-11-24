@@ -67,6 +67,7 @@ Star counts, activity badges and archive flags are refreshed automatically every
 - [crawlseo](https://github.com/crawlseo/crawlseo) ![Self-host][Self-host Icon] ![Active][Active Icon] — Open-source SEO monitoring: Search Console + crawler + Core Web Vitals in one. (660★, MIT)
 - [seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) ![CLI][CLI Icon] — Lighthouse and security-header crawler that audits whole sites. (824★)
 - [search-solved-public-seo](https://github.com/searchsolved/search-solved-public-seo) ![CLI][CLI Icon] ![Active][Active Icon] — Collection of practical Python SEO scripts by Lee Foot. (420★)
+- [mcp-web-validator](https://github.com/AKzar1el/mcp-web-validator) — Local MCP server for HTML and CSS validation, technical SEO audits, metadata, canonical/robots and structured-data checks. (10★, MIT)
 
 ### CI & Performance Budgets
 
