@@ -146,6 +146,7 @@ The newest category. These tools measure and improve how sites appear in AI answ
 - [CiteLadder](https://github.com/abhij1306/CiteLadder) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Self-hosted tracker of how ChatGPT, Gemini, Claude, and AI Overviews answer buyer questions, with the brands named and pages cited; includes an MCP server. (4★, AGPL-3.0)
 
 - [Traclux](https://github.com/ZaneLau/traclux-probe) ![Self-host][Self-host Icon] ![GEO/AI][GEO Icon] ![Active][Active Icon] — Self-hosted GEO workbench: generate probes with CSSM-HI, execute them against a configured model, and inspect saved answers and brand analysis. (0★, Apache-2.0)
+- [theseoagent-mcp](https://github.com/jeremy665/theseoagent-mcp) ![GEO/AI][GEO Icon] ![Active][Active Icon] - Open-source MCP server for technical SEO audits, keyword calendars, and CMS publishing workflows. (MIT)
 
 ### llms.txt Infrastructure
 
